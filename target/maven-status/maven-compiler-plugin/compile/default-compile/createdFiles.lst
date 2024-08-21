@@ -1,0 +1,13 @@
+Servidor\ServidorTCP.class
+com\mycompany\transferenciadearchivostcp\TransferenciaDeArchivosTCP.class
+Cliente\ClienteTCP.class
+Servidor\IntServidor$1.class
+Cliente\IntCliente$2.class
+Cliente\IntCliente$3.class
+Servidor\IntServidor$2.class
+Servidor\IntServidor.class
+Servidor\IntServidor$ClientHandler.class
+Cliente\IntCliente$4.class
+Cliente\IntCliente$1.class
+Cliente\IntCliente.class
+Cliente\IntCliente$5.class
